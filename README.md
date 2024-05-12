@@ -1,16 +1,12 @@
-### Hi there 👋
+## Git ⏲️
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chun-Bae&show_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chun-Bae&layout=compact)
 
-<!--
-**Chun-Bae/Chun-Bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Baekjoon 📖
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bull)](https://solved.ac/bull/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dreamhack 📖
+<a href="https://dreamhack.io/users/3874" target="_blank">
+    <img src="https://static.dreamhack.io/main/v2/img/dreamhack.1b6441a.svg" alt="Dreamhack Logo" style="width: 50px; height: auto; vertical-align: middle;">
+    Dreamhack Profile
+</a>

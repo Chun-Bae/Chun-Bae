@@ -8,5 +8,4 @@
 ## Dreamhack 📖
 <a href="https://dreamhack.io/users/3874" target="_blank">
     <img src="https://static.dreamhack.io/main/v2/img/dreamhack.1b6441a.svg" alt="Dreamhack Logo" style="width: 50px; height: auto; vertical-align: middle;">
-    Dreamhack Profile
 </a>

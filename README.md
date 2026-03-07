@@ -1,24 +1,22 @@
 
 
 <div align="center">
-  
-### 💻 About Me
-<p>
-👋 Hello! I'm Chun-Bae, a developer who truly enjoys the process.
+<p style="font-size: 14.5px; line-height: 1.6; margin-bottom: 10px;">
+  👋 <b>Hello! I'm Chun-Bae</b>, a developer who truly enjoys the process.
+</p>
+<p style="font-size: 12px; line-height: 1.6;">
+  I love diving deep into the core principles of technology and building things from scratch.
 </p>
 <p>
-I love diving deep into the core principles of technology and building things from scratch.
+  I am now focused on <b>AI technologies</b> and building efficient <b>service pipelines</b>.
 </p>
-I am now focused on <b>AI technologies</b> and building efficient <b>service pipelines</b>.
-</p>
-
-  
 </div>
 
-
-Currently Focused on:
-- CMBs Detection: Developing a deep learning pipeline for detecting Cerebral Microbleeds using the SSD algorithm.
-- Parrokit: Building and preparing for the launch of a foreign language conversation service app.</li>
+<p style="font-size: 12px; line-height: 1.6;">Currently Focused on:</p>
+<ul>
+  <li><b>CMBs Detection</b>: Developing a deep learning pipeline for detecting Cerebral Microbleeds using the SSD algorithm.</li>
+  <li><b>Parrokit</b>: Building and preparing for the launch of a foreign language conversation service app.</li>
+</ul>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-B.S._in_Artificial_Intelligence-white?style=flat-square">

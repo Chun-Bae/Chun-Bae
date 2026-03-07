@@ -81,10 +81,10 @@ Currently Focused on:
 <table align="center">
   <tr>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chun-Bae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="85%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chun-Bae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="95%" />
     </td>
     <td align="center" valign="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chun-Bae&layout=compact&langs_count=8&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="85%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chun-Bae&layout=compact&langs_count=8&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="95%" />
     </td>
   </tr>
   <tr>

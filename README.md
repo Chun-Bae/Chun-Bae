@@ -1,5 +1,27 @@
+
+
+<div align="center">
+  
+### 💻 About Me
+<p>
+👋 Hello! I'm Chun-Bae, a developer who truly enjoys the process.
+</p>
+<p>
+I love diving deep into the core principles of technology and building things from scratch.
+</p>
+I am now focused on <b>AI technologies</b> and building efficient <b>service pipelines</b>.
+</p>
+
+  
+</div>
+
+
+Currently Focused on:
+- CMBs Detection: Developing a deep learning pipeline for detecting Cerebral Microbleeds using the SSD algorithm.
+- Parrokit: Building and preparing for the launch of a foreign language conversation service app.</li>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/User-Chun--Bae-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Education-B.S._in_Artificial_Intelligence-white?style=flat-square">
 </p>
 
 ### 🛠️ Tech Stack
@@ -33,7 +55,7 @@
 
 
 
-### PlayGround
+### 👾 PlayGround
 
 <p align="left">
   <a href="https://solved.ac/bull" target="_blank">
@@ -50,4 +72,5 @@
   <a href="https://dreamhack.io/users/3874" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-8292FF?style=for-the-badge" height="28"></a>
   <a href="https://www.acmicpc.net/user/bull" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-0A7CC5?style=for-the-badge" height="28"></a>
   <a href="https://solved.ac/bull" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3B?style=for-the-badge" height="28"></a>
+  <a href="https://www.kaggle.com/chunbae" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white" height="28"></a>
 </p>

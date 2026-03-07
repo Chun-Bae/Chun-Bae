@@ -1,23 +1,17 @@
 <div align="center">
   
 ### 💻 About Me
-<p style="font-size: 12px; line-height: 1.6;">
-  👋 <b>Hello! I'm Chun-Bae</b>, a developer who truly enjoys the process.
-</p>
-<p style="font-size: 12px; line-height: 1.6;">
-  I love diving deep into the core principles of technology and building things from scratch.
-</p>
-<p>
-  I am now focused on <b>AI technologies</b> and building efficient <b>service pipelines</b>.
-</p>
+👋 **Hello! I'm Chun-Bae**, a developer who truly enjoys the process.
+
+I love diving deep into the core principles of technology and building things from scratch.
+
+I am now focused on **AI technologies** and building efficient **service pipelines**.
 
 </div>
 
-<p style="font-size: 12px; line-height: 1.6;">Currently Focused on:</p>
-<ul>
-  <li>Detecting Cerebral Microbleeds using the SSD algorithm</li>
-  <li>A foreign language conversation service App</li>
-</ul>
+Currently Focused on:
+* [Detecting Cerebral Microbleeds using the SSD algorithm](https://github.com/Chun-Bae/cerebral-microbleeds)
+* [A video-based self-paced speaking practice app](https://github.com/Parrokit)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-B.S._in_Artificial_Intelligence-white?style=flat-square">

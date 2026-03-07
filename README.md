@@ -1,9 +1,12 @@
 <div align="center">
   
 ### 💻 About Me
+
 👋 **Hello! I'm Chun-Bae**, a developer who truly enjoys the process.
 
 I love diving deep into the core principles of technology and building things from scratch.
+
+Alongside my ongoing interest in **System Hacking**,
 
 I am now focused on **AI technologies** and building efficient **service pipelines**.
 
@@ -62,8 +65,14 @@ Currently Focused on:
 
  
 <p>
-  <a href="https://dreamhack.io/users/3874" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-8292FF?style=for-the-badge" height="28"></a>
-  <a href="https://www.acmicpc.net/user/bull" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-0A7CC5?style=for-the-badge" height="28"></a>
-  <a href="https://solved.ac/bull" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3B?style=for-the-badge" height="28"></a>
-  <a href="https://www.kaggle.com/chunbae" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white" height="28"></a>
+  <a href="https://dreamhack.io/users/3874" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-8292FF?style=for-the-badge" height="25"></a>
+  <a href="https://www.acmicpc.net/user/bull" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-0A7CC5?style=for-the-badge" height="25"></a>
+  <a href="https://solved.ac/bull" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3B?style=for-the-badge" height="25"></a>
+  <a href="https://www.kaggle.com/chunbae" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white" height="25"></a>
+</p>
+
+<p>
+  <a href="https://본인블로그.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white" height="25">
+  </a>
 </p>

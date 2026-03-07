@@ -53,11 +53,10 @@ Currently Focused on:
 
 ### 👾 PlayGround
 
-<p align="left">
+<p>
   <a href="https://solved.ac/bull" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bull" height="150" style="vertical-align: middle;">
   </a>
-  &nbsp;
   <a href="https://solved.ac/bull" target="_blank">
     <img src="https://mazandi.herokuapp.com/api?handle=bull&theme=dark" height="150" style="vertical-align: middle;">
   </a>
@@ -72,7 +71,38 @@ Currently Focused on:
 </p>
 
 <p>
-  <a href="https://본인블로그.tistory.com" target="_blank">
+  <a href="https://codcost.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white" height="25">
   </a>
 </p>
+
+### ⚙️ Activity Metrics
+
+<table align="center">
+  <tr>
+    <td align="center" valign="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chun-Bae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="85%" />
+    </td>
+    <td align="center" valign="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chun-Bae&layout=compact&langs_count=8&hide_border=true&cache_seconds=1000&v=1&theme=transparent" width="85%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">
+      <img src="https://github-readme-streak-stats-black-one.vercel.app?user=Chun-Bae&theme=rust-ferris-dark" width="100%" />
+    <td align="center" valign="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Chun-Bae&show_icons=true&theme=dracula" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FChun-Bae?color=blue&label=Hits&style=flat-square" height="20">
+  </a>
+  <a href="https://github.com/Chun-Bae?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chun-Bae?color=06d6a0&label=Followers&style=flat-square" height="20">
+  </a>
+</p>
+
+</div>

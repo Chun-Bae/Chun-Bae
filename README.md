@@ -1,7 +1,7 @@
-
-
 <div align="center">
-<p style="font-size: 14.5px; line-height: 1.6; margin-bottom: 10px;">
+  
+### 💻 About Me
+<p style="font-size: 12px; line-height: 1.6;">
   👋 <b>Hello! I'm Chun-Bae</b>, a developer who truly enjoys the process.
 </p>
 <p style="font-size: 12px; line-height: 1.6;">
@@ -10,12 +10,13 @@
 <p>
   I am now focused on <b>AI technologies</b> and building efficient <b>service pipelines</b>.
 </p>
+
 </div>
 
 <p style="font-size: 12px; line-height: 1.6;">Currently Focused on:</p>
 <ul>
-  <li><b>CMBs Detection</b>: Developing a deep learning pipeline for detecting Cerebral Microbleeds using the SSD algorithm.</li>
-  <li><b>Parrokit</b>: Building and preparing for the launch of a foreign language conversation service app.</li>
+  <li>Detecting Cerebral Microbleeds using the SSD algorithm</li>
+  <li>A foreign language conversation service App</li>
 </ul>
 
 <p align="left">

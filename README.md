@@ -74,12 +74,6 @@ Currently Focused on:
   <a href="https://www.kaggle.com/chunbae" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white" height="25"></a>
 </p>
 
-<p>
-  <a href="https://codcost.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white" height="25">
-  </a>
-</p>
-
 ### ⚙️ Activity Metrics
 
 <table align="center">
@@ -107,6 +101,15 @@ Currently Focused on:
   <a href="https://github.com/Chun-Bae?tab=followers">
     <img src="https://img.shields.io/github/followers/Chun-Bae?color=06d6a0&label=Followers&style=flat-square" height="20">
   </a>
+  <a href="https://profile-pi-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-20232A?style=flat-square&logo=gnubash&logoColor=61DAFB" height="20">
+  </a>
+  <a href="https://www.linkedin.com/in/chun-bae" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20">
+  </a>
+  <a href="https://codcost.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5E00?style=flat-square&logo=tistory&logoColor=white" height="20">
+  </a>
 </p>
 
-</div>
+

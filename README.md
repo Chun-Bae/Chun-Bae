@@ -72,7 +72,25 @@ Currently Focused on:
 
 <div/>
 
+### 📱 My App
 
+<table>
+  <tr style="border: none;">
+    <td>
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/49/c6/cd49c637-31cc-caf9-7fc0-90f2609512cd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/400x400ia-75.webp" width="40" style="border-radius: 22%;"/>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/us/app/%ED%8C%A8%EB%A1%9C%ED%82%B7/id6751800510" target="_blank">
+        <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-010099?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 👾 PlayGround
 
@@ -92,6 +110,8 @@ Currently Focused on:
   <a href="https://solved.ac/bull" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-17CE3B?style=for-the-badge" height="25"></a>
   <a href="https://www.kaggle.com/chunbae" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white" height="25"></a>
 </p>
+
+
 
 ### ⚙️ Activity Metrics
 

@@ -93,17 +93,6 @@ Currently Focused on:
 </table>
 
 ### 👾 PlayGround
-
-<p>
-  <a href="https://solved.ac/bull" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bull" height="150" style="vertical-align: middle;">
-  </a>
-  <a href="https://solved.ac/bull" target="_blank">
-    <img src="https://mazandi.herokuapp.com/api?handle=bull&theme=dark" height="150" style="vertical-align: middle;">
-  </a>
-</p>
-
- 
 <p>
   <a href="https://dreamhack.io/users/3874" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-8292FF?style=for-the-badge" height="25"></a>
   <a href="https://www.acmicpc.net/user/bull" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-0A7CC5?style=for-the-badge" height="25"></a>

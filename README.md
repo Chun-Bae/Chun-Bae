@@ -85,7 +85,7 @@ Currently Focused on:
       </a>
     </td>
     <td>
-      <a href="#" target="_blank">
+      <a href="https://play.google.com/store/apps/details?id=com.bull.parrokit" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-010099?style=for-the-badge&logo=google-play&logoColor=white" />
       </a>
     </td>
